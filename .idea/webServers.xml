@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fa8fd9ac-6140-403c-a68b-5610b632cd28" name="Colorpicker" url="https://ddc-web-student.cnm.edu/~calvarez36/colorpicker">
+        <fileTransfer rootFolder="/home/calvarez36/public_html/colorpicker" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="5b60f2a1-0fd5-48a1-a0b1-f2468a64984c" sshConfig="calvarez36@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
